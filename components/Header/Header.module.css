@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    gap: 43rem;
+    padding: 1rem 2rem;
+    color: white;
+}
+
+.header button {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    color: aliceblue;
+    font-size: medium;
+}
+
+.header2 {
+    display: flex;
+    gap: 3rem;
+}
+
+.title {
+    margin: 0;
+    font-size: 2rem;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #252323;
+}
